@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Elliott-17
-- 👀 I’m interested in CyberSecurity and Networking
-- 🌱 I’m currently Studying Computer Science at the University of St. Andrews
-- 📫 Email me at ekh9@st-andrews.ac.uk
+Elliott-17
+ekh9@st-andrews.ac.uk
